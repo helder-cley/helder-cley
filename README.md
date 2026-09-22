@@ -15,10 +15,8 @@ COMO USAR ESTE ARQUIVO (perfil PESSOAL, não é o da organização)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7941D&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;TypeScript+%7C+NestJS+%7C+Next.js;React+%7C+React+Native;Fundador+da+Plathion" alt="Typing SVG" />
 
-[![Site](https://img.shields.io/badge/site-plathion.com.br-1a1a1a?style=for-the-badge)]([SEU_SITE])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([SEU_LINKEDIN_PESSOAL])
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([SEU_INSTAGRAM])
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([SEU_LINK_WHATSAPP])
+[![Site](https://img.shields.io/badge/site-plathion.com-1a1a1a?style=for-the-badge)]([www.plathion.com])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/helder-almeida-3a49b835])
 
 ![Profile views](https://komarev.com/ghpvc/?username=helder-cley&color=f7941d&style=for-the-badge&label=VISUALIZA%C3%87%C3%95ES)
 
