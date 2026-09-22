@@ -57,7 +57,7 @@ No dia a dia, construo produtos de ponta a ponta: back-end, front-end, infraestr
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=helder-cley&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helder-cley&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=helder-cley&theme=radical&hide_border=true" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=helder-cley&theme=radical&hide_border=true" alt="GitHub streak" />
 
 </div>
 
