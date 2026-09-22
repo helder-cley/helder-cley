@@ -26,7 +26,7 @@ COMO USAR ESTE ARQUIVO (perfil PESSOAL, não é o da organização)
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor full stack e fundador da **[Plathion](https://github.com/plathiontecnologia)** — empresa que entrega gestão empresarial em camadas: sistema, BI, mobile, site, infraestrutura, automação via WhatsApp/IA e até suporte físico (impressão 3D) para o negócio dos nossos clientes.
+Sou desenvolvedor full stack sênior, com mais de 15 anos de experiência e mestrado em Engenharia de Software. Sou fundador da Plathion — empresa que entrega gestão empresarial em camadas: sistema, BI, mobile, site, infraestrutura, automação via WhatsApp/IA e até suporte físico (impressão 3D) para o negócio dos nossos clientes.
 
 No dia a dia, construo produtos de ponta a ponta: back-end, front-end, infraestrutura e automações.
 
