@@ -60,7 +60,17 @@ No dia a dia, construo produtos de ponta a ponta: back-end, front-end, infraestr
 
 ## 🏢 Organização
 
-Confira os projetos e pacotes da minha empresa:
+Na **Plathion** trabalhamos com gestão empresarial em camadas: cada pacote é independente e pode ser combinado conforme a necessidade do cliente.
+
+| Pacote | O que entrega |
+|---|---|
+| 🖥️ **Sistema** | Software de gestão sob medida para a operação |
+| 📊 **BI** | Painéis e relatórios para decisão orientada a dados |
+| 📱 **Mobile** | Aplicativos para operação e atendimento em campo |
+| 🌐 **Site** | Presença institucional e comercial na web |
+| ☁️ **Infraestrutura** | Servidores, redes e ambientes em produção |
+| 💬 **WhatsApp + IA (n8n)** | Atendimento e automações via WhatsApp |
+| 🖨️ **Impressão 3D** | Suporte físico para infraestrutura e marketing |
 
 <div align="center">
 
