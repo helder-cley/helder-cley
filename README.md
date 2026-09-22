@@ -47,6 +47,8 @@ No dia a dia, construo produtos de ponta a ponta: back-end, front-end, infraestr
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-000000?style=for-the-badge&logo=autodesk&logoColor=white)
+![Impressão 3D](https://img.shields.io/badge/🖨️_Impressão_3D-F7941D?style=for-the-badge&logoColor=white)
 
 </div>
 
