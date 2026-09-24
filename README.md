@@ -9,7 +9,7 @@ COMO USAR ESTE ARQUIVO (perfil PESSOAL, não é o da organização)
 
 <div align="center">
 
-<img src="[URL_DA_SUA_FOTO_OU_LOGO]" width="120" style="border-radius:50%" alt="Helder" />
+<img src="https://raw.githubusercontent.com/helder-cley/helder-cley/main/Foto.jpeg" width="120" style="border-radius:50%" alt="Helder" />
 
 # Olá, eu sou o Helder 👋
 
